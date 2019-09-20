@@ -11,4 +11,34 @@
         <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ResolveComReferenceCache Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.csproj.ResolveComReference.cache" />
+      <_ResolveComReferenceCache Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.csproj.ResolveComReference.cache" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <IntermediateAssembly Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll" />
+      <IntermediateAssembly Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_DebugSymbolsIntermediatePath Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.pdb" />
+      <_DebugSymbolsIntermediatePath Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.pdb" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_DeploymentManifestEntryPoint Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll" />
+      <_DeploymentManifestEntryPoint Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ApplicationManifest Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll.manifest" />
+      <ApplicationManifest Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.dll.manifest" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <DeployManifest Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.application" />
+      <DeployManifest Remove="obj\Debug\netcoreapp2.2\JwtAuthentication.application" />
+    </ItemGroup>
+
 </Project>
